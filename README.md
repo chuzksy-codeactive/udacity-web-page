@@ -1,2 +1,3 @@
 # Practicing-Html-Css
-Building responsive webpages using html5 and css3. No third party frameworks
+After learning the basics of html5 and css3, I decided to create Udacity web page.
+Though, It is not responsive
